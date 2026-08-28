@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器 / 阅读器
+.vscode/
+.idea/
+.obsidian/
+*.swp
+
+# 临时文件
+*.tmp
+~$*
